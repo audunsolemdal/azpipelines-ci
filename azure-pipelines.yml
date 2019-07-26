@@ -1,7 +1,7 @@
 variables:
    containerRegistry: 'sdpequinor'
    serviceConnection: 'dockerhub-ci'
-   containerRepo: 'dockerhub-ci'
+   containerRepo: 'dockerhub-citest'
 
 steps:
 
