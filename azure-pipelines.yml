@@ -1,3 +1,5 @@
+pool:
+  name: linux-onprem-pool
 steps:
 - task: CmdLine@2
   inputs:
