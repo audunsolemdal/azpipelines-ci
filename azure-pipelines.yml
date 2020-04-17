@@ -4,4 +4,4 @@ steps:
 - task: CmdLine@2
   inputs:
     script: |
-      ping svn.statoil.no
+      ping svn.statoil.no -c 5
