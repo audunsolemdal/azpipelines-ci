@@ -1,5 +1,5 @@
 pool:
-  name: linux-onprem-pool
+  name: ubuntu1604-shared-onprem-pool
 steps:
 - task: CmdLine@2
   inputs:
