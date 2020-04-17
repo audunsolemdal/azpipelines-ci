@@ -4,4 +4,4 @@ steps:
 - task: CmdLine@2
   inputs:
     script: |
-      echo Skal vi se om vi kan dele denne enkle pipelinen med resten av Equinor?
+      ping svn.statoil.no
